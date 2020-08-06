@@ -1,9 +1,9 @@
 # DataBlog-Resources
 resources and topic ideas for article writing
 
-# Where to find datasets:
+## Where to find datasets:
 
-# How to make graphs?
+## How to make graphs?
 
-# Advanced Techniques to learn:
+## Advanced Techniques to learn:
 
